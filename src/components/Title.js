@@ -3,8 +3,8 @@ import React from 'react';
 const Title = () => {
   return (
     <div className='text-center text-6xl mt-3 font-mono'>
-      <h1>
-        Pintereact{' '}
+      <h1 className='select-none'>
+        Pintereact
         <span aria-label='pin' role='img'>
           📌
         </span>
