@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pintereact/static/css/main.f96ddc9c.chunk.css",
+    "main.js": "/pintereact/static/js/main.0e447768.chunk.js",
+    "main.js.map": "/pintereact/static/js/main.0e447768.chunk.js.map",
+    "runtime-main.js": "/pintereact/static/js/runtime-main.5ffcaf7a.js",
+    "runtime-main.js.map": "/pintereact/static/js/runtime-main.5ffcaf7a.js.map",
+    "static/js/2.ffb51b9b.chunk.js": "/pintereact/static/js/2.ffb51b9b.chunk.js",
+    "static/js/2.ffb51b9b.chunk.js.map": "/pintereact/static/js/2.ffb51b9b.chunk.js.map",
+    "index.html": "/pintereact/index.html",
+    "precache-manifest.3fe7cc92632e01d09a2a93bb14b195f7.js": "/pintereact/precache-manifest.3fe7cc92632e01d09a2a93bb14b195f7.js",
+    "service-worker.js": "/pintereact/service-worker.js",
+    "static/css/main.f96ddc9c.chunk.css.map": "/pintereact/static/css/main.f96ddc9c.chunk.css.map",
+    "static/js/2.ffb51b9b.chunk.js.LICENSE.txt": "/pintereact/static/js/2.ffb51b9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ffcaf7a.js",
+    "static/js/2.ffb51b9b.chunk.js",
+    "static/css/main.f96ddc9c.chunk.css",
+    "static/js/main.0e447768.chunk.js"
+  ]
+}
