@@ -1,6 +1,7 @@
 {
   "name": "pintereact",
   "version": "0.1.0",
+  "homepage": "http://gladunvv.github.io/pintereact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^3.1.0",
     "postcss-cli": "^7.1.1",
     "tailwindcss": "^1.6.2"
   }
